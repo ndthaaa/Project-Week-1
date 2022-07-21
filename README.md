@@ -8,7 +8,7 @@ An intensive development program which held by PT. Berlian Sistem Informasi call
 This is the first project made by me. just a simple Login/Logout UI project. 
 
 ### A few resources to get you started in your first Flutter project:
-
+- Ticketing task with [Trello](https://www.trello.com)
 - Design tool that help us to create our UI/UX mockup design. this provide us some plugins,wigets, design system and etc. no hard trying to use this at the first time.(https://www.figma.com)
 - Tools IDE for developing the mobile app projects we can use Android Studio or VS. Code.
 - Flutter SDK
@@ -19,4 +19,12 @@ This is the first project made by me. just a simple Login/Logout UI project.
 - RAM 4GB (8GB recommended).
 
 
+### UI Mockup:
+<a href="url"><img src="https://user-images.githubusercontent.com/101129451/180249170-1f76eb27-0e65-4ed1-a858-e78266718b34.JPG" width="160" height="350"></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/101129451/180249188-2165a69a-468d-4470-b800-75d3abebca05.JPG" width="160" height="350"></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/101129451/180249195-2325c35f-e8c2-413c-b797-6d1902fb485d.JPG" width="160" height="350"></a>
+
+
+### Project Management using [Trello](https://www.trello.com) :
+![trello](https://user-images.githubusercontent.com/101129451/180250165-dbae1b9a-1c0b-443c-b72a-38c131965585.JPG)
 
