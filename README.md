@@ -1,16 +1,22 @@
-# belajar_flutter
+# DIGITAL BOOTCAMP DIARY #1
 
-A new Flutter project.
 
-## Getting Started
+An intensive development program which held by PT. Berlian Sistem Informasi called as IT Digital Bootcamp. As newbee im eager to learn about how to build a project (Mobile Apps) with Flutter and Dart.
 
-This project is a starting point for a Flutter application.
+## Project Week 1
 
-A few resources to get you started if this is your first Flutter project:
+This is the first project made by me. just a simple Login/Logout UI project. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### A few resources to get you started in your first Flutter project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Design tool that help us to create our UI/UX mockup design. this provide us some plugins,wigets, design system and etc. no hard trying to use this at the first time.(https://www.figma.com)
+- Tools IDE for developing the mobile app projects we can use Android Studio or VS. Code.
+- Flutter SDK
+
+### PC'S Spec:
+
+- OS : Microsoft Windows, Linux, atau MacOS. (I use windows10-64 bit)
+- RAM 4GB (8GB recommended).
+
+
+
