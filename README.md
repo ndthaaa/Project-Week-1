@@ -26,5 +26,5 @@ This is the first project made by me. just a simple Login/Logout UI project.
 
 
 ### Project Management using [Trello](https://www.trello.com) :
-![trello](https://user-images.githubusercontent.com/101129451/180250165-dbae1b9a-1c0b-443c-b72a-38c131965585.JPG)
+<a href="url"><img src="https://user-images.githubusercontent.com/101129451/180252901-cd73c9ae-3aa7-4928-9f54-e072f749c43e.JPG" width="600" height="350"></a>
 
